@@ -1,6 +1,7 @@
 {
     "name": "numero2/contao-isotope-stripe",
     "type": "contao-bundle",
-    "description": "Placeholder for commercial Contao bundle",
-    "homepage": "https://www.numero2.de"
+    "description": "Placeholder bundle of the Stripe payment module for Isotope eCommerce",
+    "homepage": "https://www.numero2.de",
+    "license": "proprietary"
 }
